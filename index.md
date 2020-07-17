@@ -1,38 +1,17 @@
-# Hello Guys
-## Welcome to GitHub Pages
+# Hello!!
+## What's this SHIT about
 
-You can use the [editor on GitHub](https://github.com/spykspeigel/homepage/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+So I will use this place to dump all the codes and maybe some theory which I might find interesting to share. There will be tons of places I must 
+have referred to during the projects and defintely those being my teacher would be far better than what I could ever explain. So, I would add those 
+links. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## What a reader can expect.
+This site won't contain everything about robotics. But yeah I will try to learn all the aspects out there.
+Starting from arduino programming to Geometric Control, starting from some crude algos to deep learning shit.
 
-### Markdown
+Caution: I might at times also add my physics notes. Oh yeah I completed my masters in Theoretical Physics and prior to that I obtained a Bachelor's 
+in Systems Engineering from IITJ. It was during my undergrduation I did a lot of tinkering. I have decided to go back to that tinkering mode.
+Learning anything and everything but this time I have decided to share watever I learn on this platform. I hope people find it useful in some way or
+the other.
+One reason I am starting to write everything down is I want reach out people and 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/spykspeigel/homepage/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
